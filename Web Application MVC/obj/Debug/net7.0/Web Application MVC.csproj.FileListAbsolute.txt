@@ -1,0 +1,31 @@
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/appsettings.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC.staticwebassets.runtime.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC.deps.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC.runtimeconfig.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC.dll
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/bin/Debug/net7.0/Web Application MVC.pdb
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.csproj.AssemblyReference.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.AssemblyInfoInputs.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.AssemblyInfo.cs
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.csproj.CoreCompileInputs.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.RazorAssemblyInfo.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.RazorAssemblyInfo.cs
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets/msbuild.Web Application MVC.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets/msbuild.build.Web Application MVC.props
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web Application MVC.props
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Web Application MVC.props
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets.pack.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets.build.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/staticwebassets.development.json
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/scopedcss/bundle/Web Application MVC.styles.css
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/scopedcss/projectbundle/Web Application MVC.bundle.scp.css
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.dll
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/refint/Web Application MVC.dll
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.pdb
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/Web Application MVC.genruntimeconfig.cache
+/Volumes/Data/Github/WebDev Business/ASP.NET/Web Application MVC/Web Application MVC/Web Application MVC/obj/Debug/net7.0/ref/Web Application MVC.dll
